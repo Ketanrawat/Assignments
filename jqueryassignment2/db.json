@@ -1,0 +1,124 @@
+{
+  "employees":[
+  {
+    "id": 0,
+    "name": "Lorie Hull",
+    "email": "loriehull@frolix.com",
+    "phone": "+91 (964) 463-3937",
+    "company": "Wipro",
+    "balance": "$3,581.89",
+    "picture": "http://placehold.it/32x32",
+    "age": 21,
+    "eyeColor": "blue",
+    "gender": "female"
+  },
+  {
+    "id": 1,
+    "name": "Ayers Jones",
+    "email": "ayersjones@frolix.com",
+    "phone": "+91 (976) 494-2044",
+    "company": "Wipro",
+    "balance": "$1,986.07",
+    "picture": "http://placehold.it/32x32",
+    "age": 33,
+    "eyeColor": "green",
+    "gender": "male"
+  },
+  {
+    "id": 2,
+    "name": "Stanley Gaines",
+    "email": "stanleygaines@frolix.com",
+    "phone": "+91 (900) 440-3688",
+    "company": "Wipro",
+    "balance": "$3,372.99",
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "eyeColor": "green",
+    "gender": "male"
+  },
+  {
+    "id": 3,
+    "name": "Amber Durham",
+    "email": "amberdurham@frolix.com",
+    "phone": "+91 (821) 459-3550",
+    "company": "Wipro",
+    "balance": "$1,293.91",
+    "picture": "http://placehold.it/32x32",
+    "age": 27,
+    "eyeColor": "green",
+    "gender": "female"
+  },
+  {
+    "id": 4,
+    "name": "Baxter Berry",
+    "email": "baxterberry@frolix.com",
+    "phone": "+91 (957) 467-3368",
+    "company": "Wipro",
+    "balance": "$1,862.18",
+    "picture": "http://placehold.it/32x32",
+    "age": 27,
+    "eyeColor": "brown",
+    "gender": "male"
+  },
+  {
+    "id": 5,
+    "name": "Bobbi Henry",
+    "email": "bobbihenry@frolix.com",
+    "phone": "+91 (996) 434-3628",
+    "company": "Wipro",
+    "balance": "$2,096.79",
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "eyeColor": "brown",
+    "gender": "female"
+  },
+  {
+    "id": 6,
+    "name": "Angelique Shields",
+    "email": "angeliqueshields@frolix.com",
+    "phone": "+91 (823) 560-2310",
+    "company": "Wipro",
+    "balance": "$1,190.84",
+    "picture": "http://placehold.it/32x32",
+    "age": 37,
+    "eyeColor": "brown",
+    "gender": "female"
+  },
+  {
+    "id": 7,
+    "name": "Pauline Cain",
+    "email": "paulinecain@frolix.com",
+    "phone": "+91 (907) 529-3539",
+    "company": "Wipro",
+    "balance": "$3,186.76",
+    "picture": "http://placehold.it/32x32",
+    "age": 36,
+    "eyeColor": "green",
+    "gender": "female"
+  },
+  {
+    "id": 8,
+    "name": "Goodwin Hobbs",
+    "email": "goodwinhobbs@frolix.com",
+    "phone": "+91 (842) 591-3090",
+    "company": "Wipro",
+    "balance": "$2,654.91",
+    "picture": "http://placehold.it/32x32",
+    "age": 27,
+    "eyeColor": "green",
+    "gender": "male"
+  },
+  {
+    "id": 9,
+    "name": "Crosby Goodman",
+    "email": "crosbygoodman@frolix.com",
+    "phone": "+91 (959) 429-3680",
+    "company": "Wipro",
+    "balance": "$1,159.27",
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "eyeColor": "blue",
+    "gender": "male"
+    }
+]
+}

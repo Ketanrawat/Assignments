@@ -1,0 +1,45 @@
+
+/*
+My Custom CSS
+=============
+
+Author:  Ketan Rawat
+Updated:
+Notes:	 Hand coded for .com
+*/
+#usersearch{
+   background-color: #e3e3e3;
+   margin-top: 80px;
+   /*margin-left: 100px;
+   /*width: 1400px;*/
+   padding: 30px;
+   height: 100px;
+}
+
+#usersearch button{
+   width: 400px;
+   margin-left: 400px;
+}
+
+#empdatabase{
+background-color: teal;
+height: 37px;
+}
+
+
+
+
+
+
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+
+}

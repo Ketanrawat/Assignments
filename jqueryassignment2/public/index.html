@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+	<!-- Website Title & Description for Search Engine purposes -->
+	<title>Employee database</title>
+	<meta name="description" content="">
+
+	<!-- Mobile viewport optimized -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+	<!-- Bootstrap CSS -->
+		<!-- <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		<link href="bootstrap/css/bootstrap-glyphicons.css" rel="stylesheet"> -->
+		<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap-glyphicons.css">
+		
+		<!-- Custom CSS -->
+		<!-- <link href="includes/css/styles.css" rel="stylesheet"> -->
+		<link rel="stylesheet" type="text/css" href="includes/css/styles.css">
+
+		<!-- Include Modernizr in the head, before any other Javascript -->
+		<!-- <script src="includes/js/modernizr-2.6.2.min.js"></script> -->
+
+	</head>
+
+	<body>
+		<div class="navbar navbar-fixed-top"> 
+			<h1 style="text-align:center">Employee Database</h1>
+		</div><!--End of Navbar -->
+		<div id="usersearch">
+			<button type="button" class="btn btn-primary btn-lg btn-block" id="viewbutton">Click to view Employee Database</button>
+		</div><!--End of userseatrch-->
+		<div  id="empdatabase">
+			<div class="col-12 table-container">
+				<table class="table" id="empdbtable">
+					<tr>
+						<th>ID</th>
+						<th>NAME</th>
+						<th>AGE</th>
+						<th>EMAIL</th>
+						<th>COMPANY</th>
+						<th>PHONE</th>
+						<th>USERACTION</th>
+					</tr>
+				</table>
+				<form id="entryform">
+					<input type="text" class="form-control" placeholder="NAME">
+					<input type="text" class="form-control" placeholder="AGE">
+					<input type="text" class="form-control" placeholder="EMAIL">
+					<input type="text" class="form-control" placeholder="COMPANY">
+					<input type="text" class="form-control" placeholder="PHONE">
+
+
+				</form>
+			</div><!--End of col-12 table container-->
+		</div><!--End of empdatabase-->
+
+
+		<!-- First try for the online version of jQuery-->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+		<!-- Bootstrap JS -->
+		<script src="bootstrap/js/bootstrap.min.js"></script>
+
+		<!-- Custom JS -->
+		<script src="includes/js/script.js"></script>
+
+	</body>
+	</html>
